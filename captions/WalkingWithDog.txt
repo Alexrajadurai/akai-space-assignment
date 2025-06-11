@@ -1,0 +1,9 @@
+Frame 1: a man riding a bike down a road 
+Frame 2: a person on a skateboard in the middle of a road 
+Frame 3: a person on a bike with a dog 
+Frame 4: a person walking down a road with a dog 
+Frame 5: a person on a skateboard with a dog 
+Frame 6: a man riding a skateboard down a street 
+Frame 7: a man walking down a street with a dog 
+Frame 8: a woman standing on a sidewalk with a skateboard 
+Frame 9: a woman walking down a street with a dog 
